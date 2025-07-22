@@ -1,18 +1,11 @@
----
-title: A New Hope # This is a text property
-year: 1977
-favorite: true
-cast: # This is a list property
-  - Mark Hamill
-  - Harrison Ford
-  - Carrie Fisher
----
+#ZigBee #unresolved 
 
 # Communication Test
 ## Hardware Setup
 - Logic analyzer Channel 0 & 1 connected to MCU RX and TX respectively.
 - Gateway DID: 0013A200421AC49D
 - Device DID: 0013A200421AC5B9
+
 
 
 
